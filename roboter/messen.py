@@ -1,4 +1,6 @@
 from sensor import *
+from taster import *
+
 sensor_R = Sensor(LED_R, "Rot")
 sensor_W = Sensor(LED_W, "Weiss")
 sensor_G = Sensor(LED_G, "Gruen")
